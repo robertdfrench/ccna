@@ -1,2 +1,2 @@
-# ccna
-Preparing for the CCNA
+# CCNA
+![](ccna_prep.jpg)
